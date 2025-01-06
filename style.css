@@ -80,8 +80,8 @@ li:hover {
     transition: background-color 0.3s ease-in-out;
     box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
     border-radius: 2rem 0 2rem;
-    font-weight: bold;
-    text-shadow: 0.2rem 0 0.2rem 0 black;
+    /* font-weight: bold; */
+    /* text-shadow: 0.2rem 0 0.2rem 0 black; */
 }
 
 li:hover a {
@@ -102,14 +102,14 @@ a:visited {
 
 a:hover {
     color: white;
-    text-shadow: 0rem .2rem 0.2rem black;
+    /* text-shadow: 0rem .2rem 0.2rem black; */
 
 }
 
 a:active {
     color: red !important;
     font-weight: bold;
-    text-shadow: 0.2rem 0 0.2rem black;
+    /* text-shadow: 0.2rem 0 0.2rem black; */
 }
 #check {
     display: none;
@@ -140,7 +140,7 @@ label.side,label.side1{
     position: absolute;
     background-color: black;
     box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
-    z-index: 20;
+    /* z-index: 20; */
     border-radius: 0 0 0.5rem 0.5rem;
     
 }
