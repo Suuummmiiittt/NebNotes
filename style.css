@@ -136,7 +136,7 @@ label.side,label.side1{
 .dropdown{
     display: none;
     list-style-type: none;
-    width: 10rem;
+    width: auto;
     position: absolute;
     background-color: black;
     box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
